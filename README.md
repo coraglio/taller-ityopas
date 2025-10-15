@@ -31,3 +31,7 @@ Para correr este sitio web localmente usando `http-server`, sigue estos pasos:
 4. **Acceder al sitio**: Abre tu navegador y ve a `http://localhost:8080` (o el puerto que hayas elegido).
 
 **Nota**: Usando NVM, puedes gestionar fácilmente versiones de Node.js. Para instalar `http-server`, usa `npm install -g http-server` como se indica, o considera usar `npx http-server` para ejecutar sin instalación global. Si tienes problemas con permisos, NVM ayuda a evitar conflictos de versiones.
+
+## Sitio en producción
+
+El sitio se puede acceder mediante el siguiente link https://coraglio.github.io/taller-ityopas/
